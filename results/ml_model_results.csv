@@ -1,0 +1,10 @@
+Model,Target,RMSE,MAE,R²
+Linear Regression,PSNR,3.1522,2.5114,0.8114
+Random Forest,PSNR,2.1529,1.6577,0.912
+Gradient Boosting,PSNR,1.9821,1.5843,0.9254
+Linear Regression,SSIM,0.0414,0.0315,0.0085
+Random Forest,SSIM,0.0163,0.0132,0.8457
+Gradient Boosting,SSIM,0.0229,0.0149,0.6972
+Linear Regression,Bitrate Savings %,126.1188,90.1977,0.8379
+Random Forest,Bitrate Savings %,116.1382,54.16,0.8626
+Gradient Boosting,Bitrate Savings %,112.3285,52.1348,0.8714

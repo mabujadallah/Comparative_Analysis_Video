@@ -1,0 +1,4 @@
+codec,Avg PSNR (dB),Avg SSIM,Avg Compression Ratio,Avg File Size (KB),Avg Encoding Time (s),Avg Bitrate Savings (%)
+MPEG4,37.9063,0.9216,0.6979,3340.99,0.3351,-137.697
+H264,43.1466,0.9722,0.9405,3782.595,3.8437,-182.2723
+H265,43.8309,0.9763,0.9315,3829.3693,8.2086,-184.6513
